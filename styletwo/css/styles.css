@@ -1,0 +1,84 @@
+
+.right-panel{
+height:74.3vh; 
+width:60hw; 
+margin-left:105px; 
+border:1px solid black;
+overflow: scroll;
+}
+
+.header
+{
+width:90hw; 
+height : auto;  
+border: 1px solid white; 
+padding : 5pt;
+}
+
+.logo
+{
+padding : 5px; 
+float:left;
+}
+
+.brand-name
+{
+font-size:20pt;
+margin-top:12px; 
+margin-bottom:12px;
+}
+
+.content-container
+{
+width : 90hw; 
+height:75vh; 
+border:1px solid white; 
+padding : 5px;
+}
+
+.left-panel
+{
+height:73vh; 
+width : auto; 
+border:1px solid black; 
+padding : 5px; 
+float:left;
+}
+
+.footer
+{
+width:90hw; 
+heigth:auto;
+	
+}
+
+.main-container
+{
+width:90hw; 
+height:95vh; 
+border: 1px solid black;
+}
+
+.left-panel-content
+{
+padding : 5px;
+}
+
+.error
+{
+color:red;
+}
+
+.login-box
+{
+border:2px solid black;
+margin-top:150px;
+margin-right:350px;
+margin-left:350px
+}
+
+
+.admin-text
+{
+font-size:40px;
+}
